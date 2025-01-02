@@ -12,7 +12,7 @@ public class Main {
 
     public static JFrame createScreen() {
 
-        JFrame window = new JFrame("Ilias Window");
+        JFrame window = new JFrame("Ilia's Window");
 
         window.setSize(DEFUALT_WIDTH, DEFUALT_HEIGHT);
 
